@@ -1,5 +1,5 @@
 # echoplasm
-Echo server for examinig HTTP requests/responses.
+Echo server for examining HTTP requests/responses.
 
 ## Usage
 1. Create some new client code under `client/`. For instance, example POST calls go in `client/post.go`.
